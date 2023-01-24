@@ -1,6 +1,6 @@
 package org.leaflei.core.tool.utils;
 
-import cn.hutool.core.text.StrFormatter;
+import org.leaflei.core.tool.support.StrFormatter;
 import org.springframework.lang.Nullable;
 import org.springframework.util.Assert;
 import org.springframework.web.util.HtmlUtils;
